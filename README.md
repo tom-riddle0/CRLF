@@ -1,5 +1,7 @@
 # CRLF
 
+######See my [CRLF Nuclei Template also](https://github.com/tom-riddle0/CRLF/crlf.yaml)
+
 ## Prefer CRLF injection where Location tag is included
 
 [CRLF injection](https://hackerone.com/reports/446271)
