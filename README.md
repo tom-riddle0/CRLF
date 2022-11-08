@@ -38,3 +38,22 @@
 
 [www.*.myshopify.com CRLF Injection](https://hackerone.com/reports/66386)
 
+[[sales.mail.ru] CRLF Injection](https://hackerone.com/reports/140851)
+
+[[account-global.ubnt.com] CRLF Injection](https://hackerone.com/reports/145128)
+
+[[greenhouse.io] CRLF Injection / Insecure nginx configuration](https://hackerone.com/reports/25275)
+
+[[monitor.sjc.dropbox.com] CRLF Injection](https://hackerone.com/reports/39261)#Dropbox
+
+[[api.owncloud.org] CRLF Injection](https://hackerone.com/reports/154306)
+
+[HTTP Response Splitting (CRLF injection) due to headers overflow](https://hackerone.com/reports/53843)
+
+#Bonus Payload: %E5%98%8A%E5%98%8Dcontent-type:text/html%E5%98%8A%E5%98%8Dlocation:%E5%98%8A%E5%98%8D%E5%98%8A%E5%98%8D%E5%98%BCsvg/onload=alert%28innerHTML%28%29%E5%98%BE
+
+[CRLF injection in https://verkkopalvelu.lahitapiola.fi/](https://hackerone.com/reports/121489)
+
+[[touch.lady.mail.ru] CRLF Injection](https://hackerone.com/reports/114198)
+
+This Is all I found If you have more Ping me on twitter:https://twitter.com/mehul_vrma
